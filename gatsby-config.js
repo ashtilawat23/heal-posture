@@ -15,7 +15,7 @@ module.exports = {
       summary: `who focuses on aligning the body through yoga and mindful movement.`,
     },
     description: `Blog showcases yoga and mindful movement practices to help you heal your posture.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://healposture.com/`,
     social: {
       twitter: `healposture`,
     },
@@ -102,7 +102,7 @@ module.exports = {
               }
             }`,
             output: "/rss.xml",
-            title: "Gatsby Starter Blog RSS Feed",
+            title: "Heal Posture Blog RSS Feed",
           },
         ],
       },
@@ -110,8 +110,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `Gatsby`,
+        name: `Heal Posture Blog`,
+        short_name: `Heal Posture Blog`,
         start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
