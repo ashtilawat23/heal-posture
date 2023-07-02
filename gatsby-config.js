@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Heal Posture`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Ashton Meadows`,
+      summary: `who focuses on aligning the body through yoga and mindful movement.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Blog showcases yoga and mindful movement practices to help you heal your posture.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `healposture`,
     },
   },
   plugins: [
